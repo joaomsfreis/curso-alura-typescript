@@ -9,6 +9,9 @@ Curso feito com o objetivo de abrir o leque como desenvolvedor, conhecendo os fu
 * Simplificando código usando __readonly__;
 ### Parte 2
 * Configurações do __tsconfig.json__;
-* Exibição inderação com os dados na tela usando **TypeScript**;
+* Exibição e interação com os dados na tela usando **TypeScript**;
 * Paradigmas de orientação objeto com **TypeScript**;
 * Segurança de classes;
+### Parte 3 - Final
+* Decorators;
+* Interfaces;
